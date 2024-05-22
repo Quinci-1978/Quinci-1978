@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quinci-1978
 - 👀 I’m interested in creating code and apps that can be used in everyday life.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything that helps me grow my level of knowledge and helps me become a better programmer. 
 - 📫 How to reach me... you can reach me by email at q.walker7705@student.nu.edu
 - 😄 Pronouns: ... she/her
